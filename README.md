@@ -53,6 +53,9 @@
 >
 > Familiarity with data structures and operating systems concepts is helpful but not required.
 
+##Class GitHub Repository ([link](https://github.com/csi410-fall-2016)
+
+
 
 ##Course objectives
 
@@ -85,7 +88,7 @@
 
 ##Prerequisites: 
 
-+ You will need to ssh into a Linux server and use the command shell.
++ You will need to ssh into a \*nix (Unix/Linux) server and use the command-line.
   If you have used itsunix, you should be fine.
     Expect me to cover any tricky shell commands in class and to provide
     examples and templates.
@@ -97,6 +100,10 @@
 
 + Some examples from the lectures will use [Docker](https://www.docker.com/). 
   If you would like to run these on your own and modify them, you will need to install Docker.
+  They will assume an intermediate level of \*nix command-line skills.
+  Those who are familiar with, or who make the effort to learn, 
+  the command-line in \*nix will be at an advantage as they will be able
+  to explore these materials more throughly.
 
 + Coding assignments will be mostly limited to SQL. 
   The exceptions would be that I will require some simple Bash scripts that call 
