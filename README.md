@@ -53,7 +53,7 @@
 >
 > Familiarity with data structures and operating systems concepts is helpful but not required.
 
-##Class GitHub Repository ([link](https://github.com/csi410-fall-2016)
+##Class GitHub Repository ([link](https://github.com/csi410-fall-2016))
 
 
 
