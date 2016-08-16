@@ -236,6 +236,9 @@ throughout the semester (homework), or your ability to recall knowledge while un
 + Together they will comprise the remainder of your final score after the homeworks.
   Therefore, together, their weight may range from 50-70% of the final score.
 
++ The exams will be closed-book.
+  I will allow a single, double-sided, 8.5 inches x 11 inches sheet of paper with notes for each exam.
+
 ###Makeup Exams: 
 
 Makeup exams will be given only for valid and verifiable excuses (e.g. a major
