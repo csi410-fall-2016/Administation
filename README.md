@@ -271,7 +271,7 @@ Although class attendance is not required, you are strongly urged to attend the 
   assign and suggest, I hope that you will contribute materials that you 
   discover on your own and that you find helpful (No copyright infringements!)
 
-##Classroom Etiquete
+##Classroom Etiquette
 + *TURN OFF YOUR PHONES OR SILENCE THEM BEFORE CLASS STARTS.*
   If you must only silence them, make sure to remove them from the UAlbany WiFi network
     so that they do not waste the limited WiFi resources of the classroom. 
