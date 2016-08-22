@@ -285,8 +285,8 @@ Although class attendance is not required, you are strongly urged to attend the 
 
 As described in the grading section above, I intend to curve the grades and reward hard work.
 If you cheat on any assignment or exam, you will harm those students who work hard for 
-their place on the curve. I will have no mercy on you. If you have a tendency to cheat 
-in your classes, you should drop this course now.
+their place on the curve. If you have a tendency to cheat in your classes,
+you should drop this course now.
 
 1. Cheating in an exam will result in an E grade for the course. 
    Further, the students involved will be referred to the Dean’s
@@ -317,6 +317,11 @@ in your classes, you should drop this course now.
    Students who cheat in two or more homeworks will receive an E grade for the course. 
    The names of such students will also be forwarded to the Dean’s office for disciplinary action.
 
+3. Willfully destroying another student's work or any shared class resources 
+    (i.e. maliciously hacking the database servers) will result in an 'E' grade.
+
+   Please refer to the University's [Standards of Academic Integrity](http://www.albany.edu/studentconduct/standards_of_academic_integrity.php) page for more details.
+
 ##Policy on I grades: 
 'I' grades will only be given for genuine extenuating circumstances that
 are beyond your control after the final drop date with a ‘W’ grade 
@@ -325,7 +330,6 @@ are beyond your control after the final drop date with a ‘W’ grade
 At the time when you request an I grade, your work must be in good standing.
 Written documentation must be supplied either by you or by the University administration 
 about the extenuating circumstances.
-
 
 
 ##Course Outline 
