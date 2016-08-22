@@ -143,8 +143,8 @@ Below, I specifically state the flexiblity that I will allow myself when assigni
 Out of fairness, these rules are final. 
 
 I will curve the grades, if needed. 
-Any raw score above 90 will be guaranteed an A-. 
-Any raw score above 95 will be a guaranteed A.
+Any raw score above 90 will be guaranteed an *A-*. 
+Any raw score above 95 will be a guaranteed *A*.
 
 ###Grading formula weights
 <table>
@@ -288,7 +288,7 @@ If you cheat on any assignment or exam, you will harm those students who work ha
 their place on the curve. If you have a tendency to cheat in your classes,
 you should drop this course now.
 
-1. Cheating in an exam will result in an E grade for the course. 
+1. Cheating in an exam will result in an *E* grade for the course. 
    Further, the students involved will be referred to the Dean’s
    office for disciplinary action.
 
@@ -314,13 +314,14 @@ you should drop this course now.
     *Advice*:
       You are better off not handing in an assignment handing in one in which you cheated.
 
-   Students who cheat in two or more homeworks will receive an E grade for the course. 
+   Students who cheat in two or more homeworks will receive an *E* grade for the course. 
    The names of such students will also be forwarded to the Dean’s office for disciplinary action.
 
 3. Willfully destroying another student's work or any shared class resources 
-    (i.e. maliciously hacking the database servers) will result in an 'E' grade.
+    (i.e. maliciously hacking the database servers) will result in an *E* grade.
 
-   Please refer to the University's [Standards of Academic Integrity](http://www.albany.edu/studentconduct/standards_of_academic_integrity.php) page for more details.
+Please refer to the University's [Standards of Academic Integrity](http://www.albany.edu/studentconduct/standards_of_academic_integrity.php) page for more details.
+
 
 ##Policy on I grades: 
 'I' grades will only be given for genuine extenuating circumstances that
