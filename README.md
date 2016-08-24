@@ -76,7 +76,7 @@
 3. Students will gain experience managing an enterprise-class database system.
    We will use Postgres 9.5 for this class. 
    You will be responsible for your own Postgres database.
-   You will develop a data model and your database will be used by a web application. 
+   You will develop a data schema and your database will be used by a web application. 
     (The web application will be provided, but you will write the structured queries.)
    Your database will be required to provide high-throughput with low latency response times
     by using a combination of optimization techniques that we will cover in this course. 
