@@ -107,10 +107,10 @@
 
 + Coding assignments will be mostly limited to SQL. 
   The exceptions would be that I will require some simple Bash scripts that call 
-    Postgres admin programs such as pg_dump and pg_restore.
-
-    * [pg_dump](https://www.postgresql.org/docs/9.5/static/app-pgdump.html)
-    * [pg_restore](https://www.postgresql.org/docs/9.5/static/app-pgrestore.html)
+    Postgres admin programs such as 
+    [pg_dump](https://www.postgresql.org/docs/9.5/static/app-pgdump.html)
+    and
+    [pg_restore](https://www.postgresql.org/docs/9.5/static/app-pgrestore.html)
 
 
 ##Required texts: None. 
