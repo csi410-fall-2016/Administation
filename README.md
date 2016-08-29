@@ -183,6 +183,9 @@ The flexibilty built into these rules is to allow you to benefit from hard work
 throughout the semester (homework), or your ability to recall knowledge while under pressure (exams).
 
 
+Retain all graded work until transcript arrives
+
+
 ###Homeworks:
 + There will be at least 10 homework assignment "units."
     (The number of units assigned to a homework assignment will depend on 
@@ -191,13 +194,15 @@ throughout the semester (homework), or your ability to recall knowledge while un
       Longer assignments will be worth 2 units.
       Expect 1 unit a week, except for those weeks leading up to exams when there will be no homework.)
 
-+ Homeworks must be submitted via BlackBoard. Do not email them to the instructor or T.A.
-
 + Homeworks will be accepted up to 48 hours after the deadline. 
     After that, they will receive a grade of zero.
     A late penalty of 1% of the assignment grade will be deducted 
       for each _hour_ that it is late.
     Re-submitting an assignment after the deadline subjects the grade to the same penalty.
+
++ Grading disputes must be brought to my attention by the end of the following lecture after work is graded.
+
++ Direct all grading questions to the grader first, then contact me
 
 + The best 6 homework units will necessarily count towards your homework average.
 
@@ -238,6 +243,18 @@ throughout the semester (homework), or your ability to recall knowledge while un
 
 + The exams will be closed-book.
   I will allow a single, double-sided, 8.5 inches x 11 inches sheet of paper with notes for each exam.
+
++ **No talking**
+
++ **No collaborating**
+
+* **Must have photo id with you**
+
+* Questions:
+  + Mostly multiple choice.
+  + Few “fill in the blank” with a number
+  + May need to draw a diagram
+
 
 ###Makeup Exams: 
 
@@ -331,6 +348,12 @@ are beyond your control after the final drop date with a ‘W’ grade
 At the time when you request an I grade, your work must be in good standing.
 Written documentation must be supplied either by you or by the University administration 
 about the extenuating circumstances.
+
+
+## Disabled Student Services
+
+If you are registered with DSS, 
+either see me at the end of lecture or send me an e-mail
 
 
 ##Course Outline 
