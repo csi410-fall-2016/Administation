@@ -106,11 +106,13 @@
   to explore these materials more throughly.
 
 + Coding assignments will be mostly limited to SQL. 
-  The exceptions would be that I will require some simple Bash scripts that call 
-    Postgres admin programs such as 
-    [pg_dump](https://www.postgresql.org/docs/9.5/static/app-pgdump.html)
-    and
-    [pg_restore](https://www.postgresql.org/docs/9.5/static/app-pgrestore.html)
+  The exceptions would be
+    + I will require some simple Bash scripts that call 
+        Postgres admin programs such as 
+        [pg_dump](https://www.postgresql.org/docs/9.5/static/app-pgdump.html)
+        and
+        [pg_restore](https://www.postgresql.org/docs/9.5/static/app-pgrestore.html)
+    + Some short answer written questions. (No responses longer than a paragraph.)
 
 
 ##Required texts: None. 
@@ -251,6 +253,7 @@ Retain all graded work until transcript arrives
 * **Must have photo id with you**
 
 * Questions:
+  + You will need to write some SQL statements.
   + Mostly multiple choice.
   + Few “fill in the blank” with a number
   + May need to draw a diagram
@@ -402,10 +405,8 @@ either see me at the end of lecture or send me an e-mail
   + RAID
   + Distributed databases and two-phase commit
   + Replication
-  + PostGIS (Spatial and Geographic objects for PostgreSQL)
-  + Posgres JSON Datatype
   + NoSQL Systems
-  + Operational versus decision support
+  + PostGIS (Spatial and Geographic objects for PostgreSQL)
   + Performance considerations
   + Data warehouse / data mart
 
