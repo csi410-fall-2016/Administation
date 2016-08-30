@@ -166,7 +166,7 @@ Any raw score above 95 will be a guaranteed *A*.
         <tr>
           <td>Midterm</td>
           <td>25-35%</td>
-          <td>(Oct. 24th 5:05pm to 7:05pm)</td>
+          <td>(Oct. 24th 4:15pm to 7:05pm)</td>
         </tr>
         <tr>
           <td>Final</td>
